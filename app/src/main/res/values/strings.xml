@@ -1,4 +1,15 @@
 <resources>
     <string name="app_name">StoryHall</string>
     <string name="title_activity_register">register</string>
+
+    <string name="num1">第 1 題</string>
+    <string name="p1">下列何者不是區塊鏈特性？</string>
+    <string name="p1a1">A. 資料不可篡改</string>
+    <string name="p1a2">B. 利用複雜的公鑰與私鑰機制有效性</string>
+    <string name="p1a3">C. 比特幣的核心</string>
+    <string name="p1a4">D. 只能運作於銀行與支付業務之金流交易</string>
+
+    <string name="back">BACK</string>
+    <string name="next">NEXT</string>
+
 </resources>
