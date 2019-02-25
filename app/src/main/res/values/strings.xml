@@ -12,4 +12,11 @@
     <string name="back">BACK</string>
     <string name="next">NEXT</string>
 
+
+    <string name="testResult">測驗結果</string>
+    <string name="scoreLow">繼續加油！</string>
+    <string name="scoreGeneral">不錯喔！</string>
+    <string name="scoreExcellent">太厲害了！</string>
+    <string name="detail">錯題詳情</string>
+    <string name="backToLast">回上一層</string>
 </resources>
